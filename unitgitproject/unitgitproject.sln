@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1E9F1F29-C700-B3BF-9699-CAEC2B8C6288}") = "unitgitproject", "Assembly-CSharp.csproj", "{1E0ACF3C-9AED-2A6F-27C9-991EF295AFF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E0ACF3C-9AED-2A6F-27C9-991EF295AFF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E0ACF3C-9AED-2A6F-27C9-991EF295AFF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E0ACF3C-9AED-2A6F-27C9-991EF295AFF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E0ACF3C-9AED-2A6F-27C9-991EF295AFF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
